@@ -8,8 +8,8 @@ Sinon faire:
 Sujet:
 Un SESSAD est un centre proposant des Services d'accompagnement d'Education Spécialisée A Domicile.
 C'est une structure regroupant des intervenant.e.s (ou interfaces) qui ont pour rôle d'accompagner des
-personnes ayant des déciences visuelles ou auditives à des formations pour leur traduire le contenu des
-formations. Lorsqu'une mission est conée à une personne interface, elle doit se rendre depuis le SESSAD
+personnes ayant des déficiences visuelles ou auditives à des formations pour leur traduire le contenu des
+formations. Lorsqu'une mission est confiée à une personne interface, elle doit se rendre depuis le SESSAD
 au domicile de la personne à accompagner. A partir de ce point, les deux personnes se rendent sur le
 lieu de formation. L'interface fait sa prestation de traduction pour la formation qui peut durer plusieurs
 heures. Ensuite, l'interface raccompagne la personne chez elle et ensuite va réaliser sa mission suivante. A
